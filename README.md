@@ -21,7 +21,5 @@
 
 ##
 
-![Snake animation](https://github.com/Lucasgdbs/Lucasgdbs/blob/output/github-contribution-grid-snake.svg)
-
 
 
