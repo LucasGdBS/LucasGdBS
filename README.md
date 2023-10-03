@@ -1,19 +1,19 @@
 <h1 align='center'>
-  <p align='center'>Olá! Seja Bem vindo!</p>
-  <p align='center'>Me chamo Lucas Gabriel</p>
+  <p align='center'>Hello! Welcome!</p>
+  <p align='center'>I'm Lucas Gabriel</p>
 </h1>
-<p align='center'>Apaixonado por Python, Desenvolvimento e inovação</p>
+<p align='center'>I'm passionate about Python, Development and innovation</p>
 
 <div align='center'>
-  Onde me econtrar:
+  How to reach me:
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgdbs/)
   
 </div>
-
-- 🔭 Atualmente membro do [GaragINO](https://github.com/garagino)
-- 🌱 Atualmente estudando `FastAPI` e `Railway`
-- 💬 Me pergunte sobre `Python`, `Arduino`, `GitHub`
+ 
+- 🔭 Currently a member of [GaragINO](https://github.com/garagino)
+- 🌱 I’m currently learning `FastAPI` and `Railway`
+- 💬 Ask me about `Python`, `Arduino`, `GitHub`
 
 <h3>Top Languages and Tools:</h1>  
   <img align="right" alt="Luquinhas-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114539692/224581730-d0be42d7-c840-49bd-8770-deeee031dea3.jpeg">
@@ -40,17 +40,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasgdbs&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)
 
-### Meus projetos/Projetos que contribuí
+### Developer of/Contributor
 
 [![Emprestimo de itens](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=Emprestimo-de-itens&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/Emprestimo-de-itens)
 [![PuppyCore](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=PuppyCore&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/PuppyCore)
 [![CraBeat](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=CrabeatPlay&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/CrabeatPlay)
 [![RedLabs](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=RedLabs&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/RedLabs)
-
-
-
-
-
-
-
 
