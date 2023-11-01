@@ -2,7 +2,13 @@
   <p align='center'>Olá! Seja Bem vindo!</p>
   <p align='center'>Me chamo Lucas Gabriel</p>
 </h1>
+<div align='center'>
 <p align='center'>Apaixonado por Python, Desenvolvimento e inovação</p>
+  
+[Click here for english bio](https://github.com/LucasGdBS/LucasGdBS/tree/English)
+
+</div>
+
 
 <div align='center'>
   Onde me econtrar:
