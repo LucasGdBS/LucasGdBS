@@ -16,7 +16,7 @@
 - 💬 Ask me about `Python`, `Arduino`, `GitHub`
 
 <h3>Top Languages and Tools:</h1>  
-  <img align="right" alt="Luquinhas-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114539692/224581730-d0be42d7-c840-49bd-8770-deeee031dea3.jpeg">
+  <img align="right" alt="Luquinhas-pic" height="350" style="border-radius:100px;" src="https://github.com/LucasGdBS/LucasGdBS/assets/114539692/43249930-1c10-4e2c-95ba-be5fc8af1270">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
