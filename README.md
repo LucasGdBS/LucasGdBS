@@ -18,7 +18,7 @@
 </div>
 
 - 🔭 Atualmente membro do [GaragINO](https://github.com/garagino)
-- 🌱 Atualmente estudando `FastAPI` e `Railway`
+- 🌱 Atualmente estudando `React`
 - 💬 Me pergunte sobre `Python`, `Arduino`, `GitHub`
 
 <h3>Top Languages and Tools:</h1>  
