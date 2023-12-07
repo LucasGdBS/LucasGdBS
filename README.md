@@ -54,7 +54,8 @@
 [![RentUP](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=Emprestimo-de-itens&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/RentUP)
 [![PuppyCore](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=PuppyCore&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/PuppyCore)
 [![CraBeat](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=CrabeatPlay&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/CrabeatPlay)
-[![Scraperty](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=RedLabs&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/Scraperty)
+[![AnimalCRUD](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=CrabeatPlay&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/AnimalCRUD)
+
 
 
 
