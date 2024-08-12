@@ -12,7 +12,7 @@
 </div>
  
 - 🔭 Currently a member of [GaragINO](https://github.com/garagino)
-- 🌱 I’m currently learning `FastAPI` and `Railway`
+- 🌱 I’m currently learning `React` and `Docker`
 - 💬 Ask me about `Python`, `Arduino`, `GitHub`
 
 <h3>Top Languages and Tools:</h1>  
