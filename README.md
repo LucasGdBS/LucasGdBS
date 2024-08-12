@@ -35,8 +35,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgdbs&layout=compact&theme=dark&card_width=465)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasgdbs&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)
@@ -44,7 +43,7 @@
 ### Developer of/Contributor
 
 [![RentUP](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=Emprestimo-de-itens&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/RentUP)
-[![PuppyCore](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=PuppyCore&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/PuppyCore)
+[![TrunfoCesar](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=trunfo-cesar&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/trunfo-cesar)
 [![CraBeat](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=CrabeatPlay&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/CrabeatPlay)
 [![Scraperty](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgdbs&repo=RedLabs&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LucasGdBS/Scraperty)
 
