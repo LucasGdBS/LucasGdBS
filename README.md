@@ -17,10 +17,6 @@
   
 </div>
 
-- 🔭 Atualmente membro do [GaragINO](https://github.com/garagino)
-- 🌱 Atualmente estudando `React` e `Docker`
-- 💬 Me pergunte sobre `Python`, `Arduino`, `GitHub`
-
 <h3>Top Languages and Tools:</h1>  
 <img align="right" alt="Luquinhas-pic" height="350" style="border-radius:50px;" src="https://github.com/LucasGdBS/LucasGdBS/assets/114539692/43249930-1c10-4e2c-95ba-be5fc8af1270">
 
